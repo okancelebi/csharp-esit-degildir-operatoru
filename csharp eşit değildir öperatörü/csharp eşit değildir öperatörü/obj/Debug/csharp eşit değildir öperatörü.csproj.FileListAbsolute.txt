@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşit değildir öperatörü\csharp eşit değildir öperatörü\bin\Debug\csharp eşit değildir öperatörü.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşit değildir öperatörü\csharp eşit değildir öperatörü\bin\Debug\csharp eşit değildir öperatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşit değildir öperatörü\csharp eşit değildir öperatörü\bin\Debug\csharp eşit değildir öperatörü.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşit değildir öperatörü\csharp eşit değildir öperatörü\obj\Debug\csharp eşit değildir öperatörü.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşit değildir öperatörü\csharp eşit değildir öperatörü\obj\Debug\csharp eşit değildir öperatörü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşit değildir öperatörü\csharp eşit değildir öperatörü\obj\Debug\csharp eşit değildir öperatörü.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşit değildir öperatörü\csharp eşit değildir öperatörü\obj\Debug\csharp eşit değildir öperatörü.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp eşit değildir öperatörü\csharp eşit değildir öperatörü\obj\Debug\csharp eşit değildir öperatörü.pdb
